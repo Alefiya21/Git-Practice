@@ -1,7 +1,7 @@
 # Git-Practice
 Practicing git commands
 
-<!-- git status -->
+git status -
 PS C:\Users\alefi\OneDrive\Desktop\Git\Git-Practice> git status
 On branch main
 Your branch and 'origin/main' have diverged,
@@ -20,7 +20,7 @@ and have 5 and 1 different commits each, respectively.
 
 nothing to commit, working tree clean
 
-<!-- git log -->
+git log -
 PS C:\Users\alefi\OneDrive\Desktop\Git\Git-Practice> git log
 commit 12f842d48f2577a9d3a0e68642ac032447d89a12 (HEAD -> main)
 Author: Alefiya21 <alefiyasaifee21@gmail.com>
